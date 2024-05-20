@@ -17,7 +17,7 @@
         },
         {
             "id": 4,
-            "name": "Lime",
+            "name": "Kiwi",
             "category": "fruit"
         },
         {
@@ -25,12 +25,17 @@
             "name": "Blueberry",
             "category": "fruit"
         }
+        {
+            "id": 6,
+            "name": "Pineapple",
+            "category": "fruit"
+        }
     ],
 
     "vegetables":[
         {
             "id": 1,
-            "name": "Tomato",
+            "name": "Broccoli",
             "category": "vegetable"
         },
         {
@@ -51,6 +56,11 @@
         {
             "id": 5,
             "name": "Onion",
+            "category": "vegetable"
+        }
+        {
+            "id": 6,
+            "name": "Garlic",
             "category": "vegetable"
         }
 
