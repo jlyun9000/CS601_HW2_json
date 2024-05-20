@@ -24,7 +24,7 @@
             "id": 5,
             "name": "Blueberry",
             "category": "fruit"
-        }
+        },
         {
             "id": 6,
             "name": "Pineapple",
@@ -57,7 +57,7 @@
             "id": 5,
             "name": "Onion",
             "category": "vegetable"
-        }
+        },
         {
             "id": 6,
             "name": "Garlic",
